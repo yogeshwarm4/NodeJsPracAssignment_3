@@ -1,0 +1,20 @@
+<students>
+  <student>
+    <id>1</id>
+    <name>Abhi Jariwala</name>
+    <age>21</age>
+    <course>Computer Science</course>
+  </student>
+  <student>
+    <id>2</id>
+    <name>Varun Rajput</name>
+    <age>20</age>
+    <course>Information Technology</course>
+  </student>
+  <student>
+    <id>3</id>
+    <name>Dhruvin Jariwala</name>
+    <age>23</age>
+    <course>Bachelor of Computer Application</course>
+  </student>
+</students>
